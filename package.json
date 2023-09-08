@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Sxbastiann/Web322/issues"
   },
-  "homepage": "https://github.com/Sxbastiann/Web322#readme"
+  "homepage": "https://github.com/Sxbastiann/Web322#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
